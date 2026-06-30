@@ -1,4 +1,13 @@
 # play2
+REAL SIMPLE PROJECT PLAN
+Date 30 June
+Too small to log: AI lookups (git push to github 2 lines)
+
+Next 2 days
+Tickets being worked on
+-1% complete Slight BS scope readme etc
+-0% complete get README review by (not Turloch) - add 1 todo in unordered list by not Turloch - add approved writer key (Patrick??) by Turloch
+
 Test repository for Turloch and Patrick health admin
 
 architecture:
@@ -47,15 +56,6 @@ Old buzzwords: pair programming (not practical need however see other persons co
 agile? scrum? extream programming? (Basically has to survive Turloch being very slow and slightly segway/distracted/have cvs to send)
 Legitimate reasons for being delayed: Turloch no javascript experience. Patrick having no paid for AI - might run out of tokens. Expected: Turloch - no framework almost procedural code + AI (ie no/almost no REACT). Patrick - Turloch is prepared to pay 20 euro a month for patrick to have claude code. ASSUMPTION - local ai not worth using for code on <32Gb machines. (Could open up local ai on m2 mac for chat document 'english')
 
-
-REAL SIMPLE PROJECT PLAN
-Date 30 June
-Too small to log: AI lookups (git push to github 2 lines)
-
-Next 2 days
-Tickets being worked on
--1% complete Slight BS scope readme etc
--0% complete get README review by (not Turloch) - add 1 todo in unordered list by not Turloch - add approved writer key (Patrick??) by Turloch
 
 --
 More tickets unordered list of what has to be done.
