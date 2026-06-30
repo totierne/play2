@@ -45,7 +45,7 @@ actual for cv/work search... want web/serious programming language/serious non o
 
 Super dooper 101 simple:
 
-Upload payslip or zipped together multiple payslips -> ocr -> download report or second page or inpage output: itable of Name Id Payslips: Earliest date, Latest Date, To^tal Pension Deductions: Any gaps: Y/N Last missing payslip date: ie output almost a select from table. must be scrollable. must be search by name with % must be search by ID. Must be n row csv output with first row as column name. download.csv
+Upload payslip or zipped together multiple payslips -> ocr -> download report or second page or inpage output: itable of Name Id Payslips: Earliest date, Latest Date, Total Pension Deductions: Any gaps: Y/N Last missing payslip date: ie output almost a select from table. must be scrollable. must be search by name with % must be search by ID. Must be n row csv output with first row as column name. download.csv
 i.e. proof of concept with just one payslip and even version 0.01 ocr not available yet or vs 0.02 insecure 'call to bash shell' to execute ocr to node.js readible input.
 
 open to making first iteration sprint etc break uppable into seperate chunks and split uppable into Patricks work and Turloch's work
@@ -67,7 +67,11 @@ Legitimate reasons for being delayed: Turloch no javascript experience. Patrick 
 -0% complete Clarify architecture basically node.js and sqlite and web apropriate
 
 -0% complete manage expectations with first customer  
+
 1/ first 'worth looking at any progres at all'
+
 2/ Second approve work 'almost first payment release'
+
 3/ acceptance first trial use by customer on 1 user data
+
 4/ first application to use beyond 1 user data/on internal IT systems  
