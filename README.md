@@ -30,3 +30,19 @@ to be honest...
 Just hack it also possible... sql report or vba in excel or python in excel
 
 actual for cv/work search... want web/serious programming language/serious non oracle sql. (First suggestion client server to postgres using python shipped in libreoffice and no dependancies imported shot down by Patrick as not cv++ enough)
+
+Super dooper 101 simple:
+
+Upload payslip or zipped together multiple payslips -> ocr -> download report or second page or inpage output: itable of Name Id Payslips: Earliest date, Latest Date, To^tal Pension Deductions: Any gaps: Y/N Last missing payslip date: ie output almost a select from table. must be scrollable. must be search by name with % must be search by ID. Must be n row csv output with first row as column name. download.csv
+i.e. proof of concept with just one payslip and even version 0.01 ocr not available yet or vs 0.02 insecure 'call to bash shell' to execute ocr to node.js readible input.
+
+open to making first iteration sprint etc break uppable into seperate chunks and split uppable into Patricks work and Turloch's work
+
+Actually need to define 'management/admin'...
+
+JIRA/ticketing replacement -> Email with searchaple prefix: PROJECTCV:
+Screen share zoom/teams -> ??? (dont care pick one)
+Meeting overhead wanted? - min 1x10mins a dayi, max 2x30mins a day
+Old buzzwords: pair programming (not practical need however see other persons coding desktop and on audio)
+agile? scrum? extream programming? (Basically has to survive Turloch being very slow and slightly segway/distracted/have cvs to send)
+Legitimate reasons for being delayed: Turloch no javascript experience. Patrick having no paid for AI - might run out of tokens. Expected: Turloch - no framework almost procedural code + AI (ie no/almost no REACT). Patrick - Turloch is prepared to pay 20 euro a month for patrick to have claude code. ASSUMPTION - local ai not worth using for code on <32Gb machines. (Could open up local ai on m2 mac for chat document 'english')
