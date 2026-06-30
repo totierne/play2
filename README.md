@@ -24,3 +24,9 @@ Should be more serious about security... JWT??? Password??? data at rest encrypt
 Assume 'hacker on machine can get at ram: practically nothing to be done'
 
 slightly fancy - password protect all pdfs/excel files on disk / database password protected???
+
+to be honest...
+
+Just hack it also possible... sql report or vba in excel or python in excel
+
+actual for cv/work search... want web/serious programming language/serious non oracle sql. (First suggestion client server to postgres using python shipped in libreoffice and no dependancies imported shot down by Patrick as not cv++ enough)
