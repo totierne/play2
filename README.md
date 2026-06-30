@@ -46,3 +46,19 @@ Meeting overhead wanted? - min 1x10mins a dayi, max 2x30mins a day
 Old buzzwords: pair programming (not practical need however see other persons coding desktop and on audio)
 agile? scrum? extream programming? (Basically has to survive Turloch being very slow and slightly segway/distracted/have cvs to send)
 Legitimate reasons for being delayed: Turloch no javascript experience. Patrick having no paid for AI - might run out of tokens. Expected: Turloch - no framework almost procedural code + AI (ie no/almost no REACT). Patrick - Turloch is prepared to pay 20 euro a month for patrick to have claude code. ASSUMPTION - local ai not worth using for code on <32Gb machines. (Could open up local ai on m2 mac for chat document 'english')
+
+
+REAL SIMPLE PROJECT PLAN
+Date 30 June
+Too small to log: AI lookups (git push to github 2 lines)
+
+Next 2 days
+Tickets being worked on
+-1% complete Slight BS scope readme etc
+-0% complete get README review by (not Turloch) - add 1 todo in unordered list by not Turloch - add approved writer key (Patrick??) by Turloch
+
+--
+More tickets unordered list of what has to be done.
+
+-0% complete Clarify architecture basically node.js and sqlite and web apropriate
+-0% complete manage expectations with first customer 1/ first 'worth looking at any progres at all' 2/ Second aprove work 'almost first payment release' 3/ acceptance first trial use by customer on 1 user data 4/first application to use beyond 1 user data/on internal IT systems
