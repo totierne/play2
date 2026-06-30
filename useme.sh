@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#added manually
 MARKER=/home/totierne/.setup_done
 if [ -f "$MARKER" ]; then exit 0; fi
 
