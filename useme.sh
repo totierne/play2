@@ -1,5 +1,7 @@
 #!/bin/bash
 #added manually
+=======
+MERGE - looks like garbage from another project - remote into linux box ignore
 MARKER=/home/totierne/.setup_done
 if [ -f "$MARKER" ]; then exit 0; fi
 
