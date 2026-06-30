@@ -19,6 +19,8 @@ Customer will not be happy.
 
 aiming for first step that might be at all helpful. Not complete solution. Starting with current system. Not searching legacy/previous systems.
 
+Example of what might be in scope eventually: effort to work with minor changed n years ago input.
+
 **Test repository for Turloch and Patrick health admin mini**
 
 architecture:
