@@ -62,8 +62,12 @@ Legitimate reasons for being delayed: Turloch no javascript experience. Patrick 
 
 --
 
-**More tickets unordered list of what has to be done.**
+**More tickets unordered list of what has to be done**  
 
 -0% complete Clarify architecture basically node.js and sqlite and web apropriate
 
--0% complete manage expectations with first customer 1/ first 'worth looking at any progres at all' 2/ Second aprove work 'almost first payment release' 3/ acceptance first trial use by customer on 1 user data 4/first application to use beyond 1 user data/on internal IT systems
+-0% complete manage expectations with first customer  
+1/ first 'worth looking at any progres at all'
+2/ Second approve work 'almost first payment release'
+3/ acceptance first trial use by customer on 1 user data
+4/ first application to use beyond 1 user data/on internal IT systems  
