@@ -11,6 +11,14 @@ Tickets being worked on
 -1% complete Slight BS scope readme etc  
 -0% complete get README review by (not Turloch) - add 1 todo in unordered list by not Turloch - add approved writer key (Patrick??) by Turloch  
 
+Assumptions:
+
+Make work project for cv/interview
+
+Customer will not be happy.
+
+aiming for first step that might be at all helpful. Not complete solution. Starting with current system. Not searching legacy/previous systems.
+
 **Test repository for Turloch and Patrick health admin mini**
 
 architecture:
