@@ -106,3 +106,5 @@ Legitimate reasons for being delayed: Turloch no javascript experience. Patrick 
 3/ acceptance first trial use by customer on 1 user data
 
 4/ first application to use beyond 1 user data/on internal IT systems  
+
+-1% complete ocr search did an ai query. sort of - output payslip to json??? must work on mac and windows and be drivable input kick off output ... from node js - be recently updated/actively maintained... ideally linux too.
