@@ -21,6 +21,8 @@ aiming for first step that might be at all helpful. Not complete solution. Start
 
 Example of what might be in scope eventually: effort to work with minor changed n years ago input.
 
+Do not rely on github web stuff - plan to take proprietary/on 'just' private git/email. At least... to make less hackable 'privacy' work obscured.
+
 **Test repository for Turloch and Patrick health admin mini**
 
 architecture:
