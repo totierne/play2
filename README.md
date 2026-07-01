@@ -4,7 +4,26 @@
 Date 30 June
 
 Too small to log: AI lookups (git push to github 2 lines)
+```
+bash-3.2$ git pull
+Already up to date.
+bash-3.2$ git add .
+bash-3.2$ git commit
+[main a1bfd07] note might take private
+ 1 file changed, 2 insertions(+)
+ bash-3.2$ git push
+ Enumerating objects: 5, done.
+ Counting objects: 100% (5/5), done.
+ Delta compression using up to 8 threads
+ Compressing objects: 100% (3/3), done.
+ Writing objects: 100% (3/3), 466 bytes | 466.00 KiB/s, done.
+ Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+ remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+ To github.com:totierne/play2.git
+    a4bfb0f..a1bfd07  main -> main
 
+Assume - only mainline until first 0.01 release once you start multiple branches, multiple active developers  and merging git friction/management becomes an issue. Relying on little more than git blame for now. nice to have some tests/system tests. but really hacking towards one off demo for now.
+```
 **Next 2 days**
 
 Tickets being worked on  
